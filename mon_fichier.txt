@@ -1,3 +1,4 @@
 some text
 Nouvelle ligne Utilisateur bis Section 6.2
-Nouvelle ligne Utilisateur bis Section 7
+some text 3
+
