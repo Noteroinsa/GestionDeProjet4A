@@ -3,3 +3,6 @@ Nouvelle ligne Utilisateur bis Section 6.2
 some text 3
 
 Merge original
+
+Insertion texte section 8 
+
