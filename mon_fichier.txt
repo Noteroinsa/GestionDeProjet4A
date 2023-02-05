@@ -1,1 +1,2 @@
 some text
+Nouvelle ligne Utilisateur bis Section 6.2
