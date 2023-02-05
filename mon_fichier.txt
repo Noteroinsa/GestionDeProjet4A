@@ -1,3 +1,4 @@
 some text
 Texte ajouté par utilisateur bis
 
+Modification section 7
