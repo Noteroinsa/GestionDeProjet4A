@@ -1,3 +1,4 @@
 some text
 Texte ajouté par utilisateur bis
-Nouvelle saisie Utilisateur Bis Section7
+
+Nouveau text utilisateur bis section 7
